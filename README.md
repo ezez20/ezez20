@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ezez20
 - 👀 I’m interested in film photography, good music, and good vibes.
-- 🌱 I’m currently learning iOS development, mainly focusing on SWIFTUI.
+- 🌱 iOS developer 
 
 
 <!---
