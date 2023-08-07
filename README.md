@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ezez20
-- 👀 I’m interested in film photography, good music, and good vibes.
 - 🍏👨🏻‍💻 iOS developer 
 
 
